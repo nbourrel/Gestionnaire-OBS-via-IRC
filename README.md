@@ -1,2 +1,6 @@
-# Gestionnaire-OBS-via-IRC
-Prise d'informations serveur via une API afin de gérer le logiciel de streamin OBS par le biais de websockets; en parallèle à une connection au résaeau Twitch par un protocole IRC.
+# QFNTV
+ IRCBot with OBS and syncoreAPI integration
+
+## TO-DO
+  - fix OBS error messages (quiet for now) -> handle the service runs 24/7 but obs doesnt
+  - adminning from IRC?

@@ -1,0 +1,20 @@
+{
+  "twitch": {
+	"server": "irc.twitch.tv",
+    "port": 6667,
+    "username": "",
+    "oauth": "",
+    "cap": "twitch.tv/commands",
+    "channel": "",
+	"admins": []
+  },
+  "obs": {
+    "ip": "",
+    "port": 4455,
+    "password": ""
+  },
+  "syncore": {
+    "url": "https://ql.syncore.org/api/query",
+    "serverid": 
+  }
+}
